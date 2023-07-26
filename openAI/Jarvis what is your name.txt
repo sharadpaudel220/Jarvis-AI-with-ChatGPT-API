@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis what is your name 
+ ********************** 
+ 
+I am an AI language model developed by OpenAI, known as GPT-3. I don't have a personal name as I am an artificial intelligence.

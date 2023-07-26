@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis what is 2 + 2 
+ ********************** 
+ 
+2 + 2 equals 4.

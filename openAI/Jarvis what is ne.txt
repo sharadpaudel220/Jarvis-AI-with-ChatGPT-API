@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis what is ne 
+ ********************** 
+ 
+NE stands for Northeast, a direction typically used to indicate a specific geographic location. It is commonly used in navigation, weather forecasts, and regional descriptions in countries or regions that use cardinal directions for orientation.

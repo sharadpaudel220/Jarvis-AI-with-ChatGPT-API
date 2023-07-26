@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis what is computer 
+ ********************** 
+ 
+Computer is an electronic device that can receive, process, and store data. It is capable of performing various operations and tasks using programs and software. It consists of hardware components, such as the Central Processing Unit (CPU), memory, storage devices, input/output devices, and a motherboard. Computers can be used for a wide range of purposes, including data processing, calculations, communication, multimedia processing, and much more.
