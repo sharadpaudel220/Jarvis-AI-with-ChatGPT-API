@@ -19,26 +19,3 @@ response = openai.ChatCompletion.create(
 )
 print(response)
 
-'''
-{{
-  "id": "chatcmpl-7g2zeSUdlhpJrZJiWWD3OUuQmh5E3",
-  "object": "chat.completion",
-  "created": 1690255638,
-  "model": "gpt-3.5-turbo-0613",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "Hello! I'm an AI, so I don't have feelings, but I'm here to help you. How can I assist you today?"
-      },
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 13,
-    "completion_tokens": 29,
-    "total_tokens": 42
-  }
-}
-'''
