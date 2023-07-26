@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis what is a computer 
+ ********************** 
+ 
+A computer is an electronic device capable of executing a sequence of instructions to perform various operations, such as mathematical calculations, data processing, and information storage. It consists of hardware components, including a central processing unit (CPU), memory, storage devices, and input/output peripherals. The instructions, called software or programs, provide specific tasks for the computer to accomplish.

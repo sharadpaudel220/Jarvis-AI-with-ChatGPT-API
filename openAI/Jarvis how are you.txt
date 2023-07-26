@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis how are you 
+ ********************** 
+ 
+I'm an AI language model, so I don't have feelings in the way humans do. However, I'm functioning properly and ready to assist you. How can I help you today?

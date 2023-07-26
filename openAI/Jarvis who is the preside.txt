@@ -1,0 +1,4 @@
+ open AI response for prompt: Jarvis who is the president of India 
+ ********************** 
+ 
+As of October 2021, Ram Nath Kovind is the President of India.
